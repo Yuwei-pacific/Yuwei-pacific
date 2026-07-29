@@ -1,68 +1,62 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="440" viewBox="0 0 1200 440" role="img" aria-labelledby="title desc">
-  <title id="title">Yuwei Li</title>
-  <desc id="desc">Communication Designer and Frontend Developer based in Milan</desc>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="380" viewBox="0 0 1200 380" role="img" aria-labelledby="title desc">
+  <title id="title">Creative Designer</title>
+  <desc id="desc">Yuwei Li designs and builds vivid experiences from Milan</desc>
   <defs>
     <pattern id="background-dots" width="14" height="14" patternUnits="userSpaceOnUse">
-      <circle cx="2" cy="2" r="1.6" fill="#d4d4d4"/>
+      <circle cx="2" cy="2" r="1.45" fill="#d4d4d4"/>
     </pattern>
-    <pattern id="mask-dots" width="12" height="12" patternUnits="userSpaceOnUse">
-      <circle cx="2" cy="2" r="2.4" fill="#fff"/>
+    <pattern id="mask-dots" width="10" height="10" patternUnits="userSpaceOnUse">
+      <circle cx="2" cy="2" r="2.1" fill="#fff"/>
     </pattern>
-    <mask id="dot-mask">
-      <rect width="1200" height="440" fill="url(#mask-dots)"/>
+    <mask id="art-dots" maskUnits="userSpaceOnUse" x="0" y="0" width="1200" height="380">
+      <rect width="1200" height="380" fill="url(#mask-dots)"/>
     </mask>
-    <linearGradient id="violet" x1="0" x2="1">
-      <stop offset="0" stop-color="#ac9bcc" stop-opacity="0"/>
-      <stop offset="1" stop-color="#ac9bcc"/>
-    </linearGradient>
-    <linearGradient id="cyan" x1="0" x2="1">
-      <stop offset="0" stop-color="#bff0fc" stop-opacity="0"/>
-      <stop offset="1" stop-color="#bff0fc"/>
-    </linearGradient>
-    <linearGradient id="lime" x1="0" x2="1">
-      <stop offset="0" stop-color="#b1c72f" stop-opacity="0"/>
-      <stop offset="1" stop-color="#b1c72f"/>
-    </linearGradient>
-    <linearGradient id="yellow" x1="0" x2="1">
-      <stop offset="0" stop-color="#fdfe33" stop-opacity="0"/>
-      <stop offset="1" stop-color="#fdfe33"/>
-    </linearGradient>
-    <linearGradient id="orange" x1="0" x2="1">
-      <stop offset="0" stop-color="#eba82d" stop-opacity="0"/>
-      <stop offset="1" stop-color="#eba82d"/>
-    </linearGradient>
-    <linearGradient id="coral" x1="0" x2="1">
-      <stop offset="0" stop-color="#d4613c" stop-opacity="0"/>
-      <stop offset="1" stop-color="#d4613c"/>
-    </linearGradient>
   </defs>
 
-  <rect width="1200" height="440" fill="#ffffff"/>
-  <rect width="1200" height="440" fill="url(#background-dots)" opacity=".58"/>
+  <rect width="1200" height="380" fill="#fff"/>
+  <rect width="1200" height="380" fill="url(#background-dots)" opacity=".55"/>
 
-  <g mask="url(#dot-mask)" opacity=".9">
-    <path d="M648 235 L1200 38 L1200 94 Z" fill="url(#violet)"/>
-    <path d="M648 235 L1200 92 L1200 148 Z" fill="url(#cyan)"/>
-    <path d="M648 235 L1200 146 L1200 202 Z" fill="url(#lime)"/>
-    <path d="M648 235 L1200 200 L1200 256 Z" fill="url(#yellow)"/>
-    <path d="M648 235 L1200 254 L1200 310 Z" fill="url(#orange)"/>
-    <path d="M648 235 L1200 308 L1200 364 Z" fill="url(#coral)"/>
+  <!-- Original hero artwork from yuweidesign.com, scaled uniformly. -->
+  <g mask="url(#art-dots)">
+  <g transform="translate(230 -96) scale(.68)">
+    <g opacity=".4">
+      <path fill="#d4613c" d="M984.7 546.6 955.5 543.7 945.4 531.2 936.6 522.2 928.9 514.4 922.2 507.6 916.3 501.6 911 496.2 854.4 438.9 856.1 435.7 921.5 490.3 928.5 496.2 936.6 503 946 510.8 957.1 520 970.3 531 984.8 543.1V546.6Z"/>
+      <path fill="#eba82d" d="M984.8 543.1 856.1 435.8 857.8 432.6 979.4 514.9 984.8 543.2Z"/>
+      <path fill="#fdfe33" d="M979.4 514.8 857.8 432.5 859.5 429.3 975 491.2 979.4 514.8Z"/>
+      <path fill="#b1c72f" d="M975 491.2 859.5 429.3 861.2 426.1 971.2 471.2 975 491.1Z"/>
+      <path fill="#bff0fc" d="M971.2 471.3 861.2 426.2 862.9 423 968 454.2 971.2 471.3Z"/>
+      <path fill="#ac9bcc" d="M967.9 454.2 862.8 423 864.5 419.8 965.1 439.4 967.9 454.2Z"/>
+    </g>
+    <path fill="#d4613c" d="M1838.2 546.5H986.7L970.5 533.2 1006 529.5 1023.5 527.6 1890.2 434.9 1838.2 546.6Z"/>
+    <path fill="#eba82d" d="M1963.6 430.2 1023.5 527.6 1006 529.5 970.5 533.2 956.5 521.7 985.5 515.6 1017.9 508.8 1926.3 317.2 1963.6 430Z"/>
+    <path fill="#fdfe33" d="M1935.2 317.4 1018 509 985.6 515.8 956.6 521.9 944.5 512 968.5 504.4 997.7 495.2 1012.5 490.5 1869.6 220 1935.3 317.6Z"/>
+    <path fill="#b1c72f" d="M2040.5 166 1012.4 490.3 997.6 495 968.4 504.2 944.4 511.8 933.8 503.1 953.8 494.4 977.5 484.1 1005.9 471.8 1007 471.3 1963.6 53.1 2040.5 165.9Z"/>
+    <path fill="#bff0fc" d="M1902.7 80.6 1006.9 471.4 1005.8 471.9 977.4 484.2 953.7 494.5 933.7 503.2 924.4 495.5 941.2 486.1 960.6 475.3 983.1 462.8 1001.2 452.7 1842.9-19.9 1902.6 80.6Z"/>
+    <path fill="#ac9bcc" d="M1835.2-13.5 1001.1 452.5 983 462.6 960.5 475.1 941.1 485.9 924.3 495.3 915.9 488.4 930.2 478.6 946.2 467.5 964.4 454.9 985.1 440.6 995.4 433.5 1800.9-92.4 1835.2-13.5Z"/>
+    <g fill="#171717">
+      <path d="M900.8 308H870C862.8 308 856.3 312.5 853.8 319.3L845.2 342.8C841.1 354 849.4 365.9 861.4 365.9H892.2C899.4 365.9 905.9 361.4 908.4 354.6L917 331.1C921.1 319.9 912.8 308 900.8 308Z"/>
+      <path d="M994.8 572.8H868.8C861.6 572.8 855.1 577.3 852.6 584.1L841.5 614.7C837.4 625.9 845.7 637.8 857.7 637.8H983.7C990.9 637.8 997.4 633.3 999.9 626.5L1011 595.9C1015.1 584.7 1006.8 572.8 994.8 572.8Z"/>
+      <path d="M870.2 392H839.3C832.1 392 825.6 396.5 823.1 403.3L745.9 614.7C741.8 625.9 750.1 637.8 762.1 637.8H793.2C800.4 637.8 806.9 633.3 809.4 626.5L886.3 415.1C890.4 403.9 882.1 392 870.1 392Z"/>
+      <path d="M931.2 368.1 874.6 523.7C870.5 534.9 878.8 546.8 890.8 546.8H1004.2C1016.2 546.8 1024.5 534.9 1020.4 523.7L963.6 368.1C958.1 353 936.7 353 931.2 368.1Z"/>
+    </g>
+  </g>
   </g>
 
-  <g fill="#171717">
-    <path d="M695 130h-30c-7 0-13 4-15 11l-9 24c-4 11 4 22 15 22h30c7 0 13-4 15-11l9-24c4-11-4-22-15-22Z"/>
-    <path d="M699 210h-30c-7 0-13 4-15 11l-55 151c-4 11 4 22 15 22h31c7 0 13-4 15-11l54-151c4-11-4-22-15-22Z"/>
-    <path d="M764 183 711 329c-4 11 4 22 15 22h109c12 0 20-12 16-23l-53-145c-6-16-28-16-34 0Z"/>
-    <path d="M816 371H696c-7 0-13 4-15 11l-10 27h156l5-15c4-11-4-23-16-23Z"/>
+  <!-- Exact site logo paths, kept at their original aspect ratio. -->
+  <g transform="translate(56 28) scale(.68)">
+    <circle cx="27.5" cy="27.5" r="27.5" fill="#171717"/>
+    <path d="M27.6154 10.4767H24.3918C23.6344 10.4767 22.9574 10.95 22.6973 11.6621L21.7975 14.1259C21.3679 15.3025 22.239 16.5492 23.492 16.5492H26.7188C27.477 16.5492 28.1548 16.075 28.4141 15.3622L29.3107 12.8984C29.7387 11.7217 28.8676 10.4775 27.6154 10.4775Z" fill="#fff"/>
+    <path d="M37.4621 38.2138H24.263C23.5049 38.2138 22.827 38.6879 22.5677 39.4007L21.3998 42.6092C20.9718 43.7858 21.8429 45.0301 23.0951 45.0301H36.2942C37.0524 45.0301 37.7302 44.5559 37.9896 43.8431L39.1574 40.6346C39.5854 39.458 38.7143 38.2138 37.4621 38.2138Z" fill="#fff"/>
+    <path d="M24.4123 19.2763H21.1776C20.4202 19.2763 19.7432 19.7497 19.4831 20.4617L11.3947 42.6076C10.9651 43.7843 11.8362 45.0309 13.0892 45.0309H16.3518C17.1099 45.0309 17.7877 44.5567 18.0471 43.8439L26.1077 21.698C26.5357 20.5214 25.6646 19.2771 24.4123 19.2771Z" fill="#fff"/>
+    <path d="M30.8046 16.7679 24.873 33.0649C24.445 34.2415 25.3161 35.4858 26.5683 35.4858H38.4523C39.7053 35.4858 40.5765 34.24 40.1469 33.0625L34.1945 16.7656C33.6169 15.1848 31.3806 15.1856 30.8046 16.7671Z" fill="#fff"/>
   </g>
 
-  <g font-family="Arial, Helvetica, sans-serif">
-    <text x="56" y="58" fill="#404040" font-size="15" font-weight="700" letter-spacing="4">PORTFOLIO / GITHUB</text>
-    <text x="1144" y="58" fill="#404040" font-size="15" font-weight="700" letter-spacing="3" text-anchor="end">MILAN, IT</text>
-    <text x="56" y="193" fill="#171717" font-size="118" font-weight="700" letter-spacing="-7">Yuwei</text>
-    <text x="56" y="310" fill="#171717" font-size="118" font-weight="700" letter-spacing="-7">Li</text>
-    <line x1="56" y1="338" x2="1144" y2="338" stroke="#bdbdbd"/>
-    <text x="56" y="382" fill="#404040" font-size="19" font-weight="600" letter-spacing=".4">COMMUNICATION DESIGNER · FRONTEND DEVELOPER</text>
-    <text x="1144" y="382" fill="#737373" font-size="16" text-anchor="end">Designing from structure to interface to code.</text>
+  <g font-family="Geist, 'Avenir Next', 'Segoe UI', sans-serif">
+    <text x="106" y="54" fill="#404040" font-size="15" font-weight="650" letter-spacing="3.2">YUWEI LI / GITHUB</text>
+    <text x="1144" y="54" fill="#404040" font-size="15" font-weight="650" letter-spacing="3.2" text-anchor="end">MILAN / IT</text>
+    <text x="56" y="174" fill="#171717" font-size="104" font-weight="650" letter-spacing="-6">Creative</text>
+    <text x="56" y="264" fill="#171717" font-size="104" font-weight="650" letter-spacing="-6">Designer</text>
+    <line x1="56" y1="298" x2="1144" y2="298" stroke="#a3a3a3" stroke-opacity=".65"/>
+    <text x="56" y="342" fill="#404040" font-size="22" font-weight="450">I design and build vivid experiences that bring color to the ordinary.</text>
   </g>
 </svg>
