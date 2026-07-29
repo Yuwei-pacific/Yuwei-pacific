@@ -12,13 +12,14 @@ I work across visual identity, editorial design, UX/UI, and frontend development
 
 [Portfolio ↗](https://www.yuweidesign.com) · [LinkedIn ↗](https://www.linkedin.com/in/yuwei081/) · [Email ↗](mailto:yuweidesign@outlook.com)
 
-## Selected work <sup>03</sup>
+## Selected work <sup>04</sup>
 
 | Project | Scope |
 | :--- | :--- |
-| **01 · [Personal Website](https://github.com/Yuwei-pacific/Personal-Website)** | My portfolio and digital practice translated into a flexible editorial system.<br><sub>Next.js · TypeScript · Tailwind CSS · Sanity · GSAP</sub><br>[Visit website ↗](https://www.yuweidesign.com) |
-| **02 · [E-Club Polimi](https://github.com/eclubpolimi/eclubpolimi.it)** | The official E-Club Polimi platform for its team, events, initiatives, and University Startup Challenge programmes.<br><sub>Astro · React · TypeScript · Tailwind CSS · Contentful</sub><br>[Visit website ↗](https://www.eclubpolimi.it) |
-| **03 · [Cloud Atlas](https://github.com/Yuwei-pacific/Cloud-Atlas-Webcode-gruppo9)** | A scroll-driven narrative interface for exploring timelines, recurring roles, and character connections in *Cloud Atlas*.<br><sub>Astro · D3.js · Lenis</sub> |
+| **01 · [Urlo Creativo](https://www.yuweidesign.com/projects/urlo-creativo)** | Frontend development, responsive adaptation, Sanity CMS structure, SEO, and ongoing maintenance for a bilingual Milan studio.<br><sub>Next.js · TypeScript · Tailwind CSS · Sanity</sub><br>[Visit website ↗](https://www.urlocreativo.com/it) |
+| **02 · [Personal Website](https://github.com/Yuwei-pacific/Personal-Website)** | My portfolio and digital practice translated into a flexible editorial system.<br><sub>Next.js · TypeScript · Tailwind CSS · Sanity · GSAP</sub><br>[Visit website ↗](https://www.yuweidesign.com) |
+| **03 · [E-Club Polimi](https://github.com/eclubpolimi/eclubpolimi.it)** | The official E-Club Polimi platform for its team, events, initiatives, and University Startup Challenge programmes.<br><sub>Astro · React · TypeScript · Tailwind CSS · Contentful</sub><br>[Visit website ↗](https://www.eclubpolimi.it) |
+| **04 · [Cloud Atlas](https://github.com/Yuwei-pacific/Cloud-Atlas-Webcode-gruppo9)** | A scroll-driven narrative interface for exploring timelines, recurring roles, and character connections in *Cloud Atlas*.<br><sub>Astro · D3.js · Lenis</sub> |
 
 ## Practice
 
