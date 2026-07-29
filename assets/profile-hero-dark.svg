@@ -1,0 +1,68 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="440" viewBox="0 0 1200 440" role="img" aria-labelledby="title desc">
+  <title id="title">Yuwei Li</title>
+  <desc id="desc">Communication Designer and Frontend Developer based in Milan</desc>
+  <defs>
+    <pattern id="background-dots" width="14" height="14" patternUnits="userSpaceOnUse">
+      <circle cx="2" cy="2" r="1.6" fill="#343434"/>
+    </pattern>
+    <pattern id="mask-dots" width="12" height="12" patternUnits="userSpaceOnUse">
+      <circle cx="2" cy="2" r="2.4" fill="#fff"/>
+    </pattern>
+    <mask id="dot-mask">
+      <rect width="1200" height="440" fill="url(#mask-dots)"/>
+    </mask>
+    <linearGradient id="violet" x1="0" x2="1">
+      <stop offset="0" stop-color="#ac9bcc" stop-opacity="0"/>
+      <stop offset="1" stop-color="#ac9bcc"/>
+    </linearGradient>
+    <linearGradient id="cyan" x1="0" x2="1">
+      <stop offset="0" stop-color="#bff0fc" stop-opacity="0"/>
+      <stop offset="1" stop-color="#bff0fc"/>
+    </linearGradient>
+    <linearGradient id="lime" x1="0" x2="1">
+      <stop offset="0" stop-color="#b1c72f" stop-opacity="0"/>
+      <stop offset="1" stop-color="#b1c72f"/>
+    </linearGradient>
+    <linearGradient id="yellow" x1="0" x2="1">
+      <stop offset="0" stop-color="#fdfe33" stop-opacity="0"/>
+      <stop offset="1" stop-color="#fdfe33"/>
+    </linearGradient>
+    <linearGradient id="orange" x1="0" x2="1">
+      <stop offset="0" stop-color="#eba82d" stop-opacity="0"/>
+      <stop offset="1" stop-color="#eba82d"/>
+    </linearGradient>
+    <linearGradient id="coral" x1="0" x2="1">
+      <stop offset="0" stop-color="#d4613c" stop-opacity="0"/>
+      <stop offset="1" stop-color="#d4613c"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1200" height="440" fill="#0a0a0a"/>
+  <rect width="1200" height="440" fill="url(#background-dots)" opacity=".72"/>
+
+  <g mask="url(#dot-mask)" opacity=".95">
+    <path d="M648 235 L1200 38 L1200 94 Z" fill="url(#violet)"/>
+    <path d="M648 235 L1200 92 L1200 148 Z" fill="url(#cyan)"/>
+    <path d="M648 235 L1200 146 L1200 202 Z" fill="url(#lime)"/>
+    <path d="M648 235 L1200 200 L1200 256 Z" fill="url(#yellow)"/>
+    <path d="M648 235 L1200 254 L1200 310 Z" fill="url(#orange)"/>
+    <path d="M648 235 L1200 308 L1200 364 Z" fill="url(#coral)"/>
+  </g>
+
+  <g fill="#ffffff">
+    <path d="M695 130h-30c-7 0-13 4-15 11l-9 24c-4 11 4 22 15 22h30c7 0 13-4 15-11l9-24c4-11-4-22-15-22Z"/>
+    <path d="M699 210h-30c-7 0-13 4-15 11l-55 151c-4 11 4 22 15 22h31c7 0 13-4 15-11l54-151c4-11-4-22-15-22Z"/>
+    <path d="M764 183 711 329c-4 11 4 22 15 22h109c12 0 20-12 16-23l-53-145c-6-16-28-16-34 0Z"/>
+    <path d="M816 371H696c-7 0-13 4-15 11l-10 27h156l5-15c4-11-4-23-16-23Z"/>
+  </g>
+
+  <g font-family="Arial, Helvetica, sans-serif">
+    <text x="56" y="58" fill="#d4d4d4" font-size="15" font-weight="700" letter-spacing="4">PORTFOLIO / GITHUB</text>
+    <text x="1144" y="58" fill="#d4d4d4" font-size="15" font-weight="700" letter-spacing="3" text-anchor="end">MILAN, IT</text>
+    <text x="56" y="193" fill="#ffffff" font-size="118" font-weight="700" letter-spacing="-7">Yuwei</text>
+    <text x="56" y="310" fill="#ffffff" font-size="118" font-weight="700" letter-spacing="-7">Li</text>
+    <line x1="56" y1="338" x2="1144" y2="338" stroke="#525252"/>
+    <text x="56" y="382" fill="#e5e5e5" font-size="19" font-weight="600" letter-spacing=".4">COMMUNICATION DESIGNER · FRONTEND DEVELOPER</text>
+    <text x="1144" y="382" fill="#a3a3a3" font-size="16" text-anchor="end">Designing from structure to interface to code.</text>
+  </g>
+</svg>
